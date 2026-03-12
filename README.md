@@ -1,4 +1,4 @@
-# IN2000: Software Engineering with Project Work
+# IN2000: Software Engineering Project
 
 
 ## About This Repository
